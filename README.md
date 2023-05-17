@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   <h2>GitHub Stats</h3>
 
-  [<img width="400" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TerraMonster5&count_private=true&show_icons=true&hide_title=true&theme=transparent&hide_border=true">][github-repos]
-  [<img width="400" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerraMonster5&layout=compact&theme=transparent&hide_border=true">][github-repos]
+  <img width="400" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TerraMonster5&count_private=true&show_icons=true&hide_title=true&theme=transparent&hide_border=true">
+  <img width="400" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerraMonster5&layout=compact&theme=transparent&hide_border=true">
 
 </div>
