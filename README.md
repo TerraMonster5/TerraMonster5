@@ -6,3 +6,4 @@
 * Plants vs Zombies speedrunning helper tools
 * Visualisation of the Collatz Conjecture
 * Film indexing database
+* Flask based web framework
